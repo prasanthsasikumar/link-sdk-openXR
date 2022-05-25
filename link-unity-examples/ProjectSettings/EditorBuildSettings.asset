@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/LooxidLink/Examples/Scenes/2DVisualizer_SteamVR.unity
     guid: c20353244dacf9a408b87c8a8554973e
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b082d1c81ea8a2046b88b208c335cc9e,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: da40affef0073c14a9593623eeced9f9,
+      type: 2}
